@@ -1,0 +1,46 @@
+.header-content{
+    display: flex;
+    justify-content:center;
+    background-color: #ffffff;
+}
+
+.me{
+    width: 400px
+}
+
+.italic{
+    font-style: italic;
+}
+
+.span-content-title{
+    background: #C4C4C4;
+    display: flex;
+    justify-content:center;
+    margin-bottom: 18vh;
+}
+
+.h1-page-title{
+    color: #005677;
+    font-size: 35px;
+    font-family: 'Times New Roman'
+}
+
+.h3-subtitle{
+    background: #C4C4C4;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    color: #005677;
+}
+
+.footer-content{
+    padding-inline: 35vw;
+    background-color: #005677;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+
+.icons {
+    width: 20px;
+    height: 20px;
+}
